@@ -22,7 +22,7 @@
     <br/>
     <br/>
     <button onclick= 'window.location.href="consulting.html"'>Back to Consulting Services.</button>
-    <button onclick= 'window.location.href="EBusiness   .php"'>To purchase another package click here!</button>
+    <button onclick= 'window.location.href="EBusiness.php"'>To purchase another package click here!</button>
 
     </center>
     </body>
